@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+Pipfile
+Pipfile.lock
+spotify_to_youtube_map.txt
+spotify_top_tracks.txt
+tokens.txt
+main.py
+
+# Node.js (if using React)
+node_modules/
+dist/

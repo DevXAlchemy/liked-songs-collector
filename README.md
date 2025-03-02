@@ -12,7 +12,6 @@ To optimize API usage and improve performance, the app integrates:
 ## ✨ Features  
 - 📥 **Fetch Liked Songs** from Spotify & YouTube Music  
 - 🔄 **Create Playlists** from Spotify songs in YouTube and vice versa  
-- ⚡ **Redis Caching** for faster data retrieval and reduced API calls  
 - 🔗 **Songlink API Integration** to map songs across platforms  
 - 🎛 **Simple UI** for easy interaction  
 - 🚀 **Future Enhancements:** More platform integrations  
